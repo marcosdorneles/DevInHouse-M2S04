@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1705.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2S04 - exercicios semanais", "M2S04 - exercicios semanais\M2S04 - exercicios semanais.csproj", "{4C7D7638-3BD8-453D-B6AD-C0D6752098C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[M2S04] Ex 4 - Encapsulamento ContaBancaria", "[M2S04] Ex 4 - Encapsulamento ContaBancaria\[M2S04] Ex 4 - Encapsulamento ContaBancaria.csproj", "{A54A7956-C70E-48A9-9610-5E0ED19BC40C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4C7D7638-3BD8-453D-B6AD-C0D6752098C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C7D7638-3BD8-453D-B6AD-C0D6752098C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C7D7638-3BD8-453D-B6AD-C0D6752098C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54A7956-C70E-48A9-9610-5E0ED19BC40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54A7956-C70E-48A9-9610-5E0ED19BC40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54A7956-C70E-48A9-9610-5E0ED19BC40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54A7956-C70E-48A9-9610-5E0ED19BC40C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
